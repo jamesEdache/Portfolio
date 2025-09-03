@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>James Edache Clement | Portfolio</title>
+  <!-- External CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <h1>James Edache Clement</h1>
+    <p>Full Stack Developer | Passionate about building user-friendly web solutions</p>
+  </header>
+
+  <!-- About Section -->
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      I am a dedicated Full Stack Developer with a strong foundation in web technologies and a passion
+      for solving problems through clean, efficient code. Skilled in both front-end and back-end 
+      development, I am currently building projects to showcase my abilities while expanding my expertise.
+    </p>
+  </section>
+
+  <!-- Skills Section -->
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML, CSS, JavaScript</li>
+      <li>Frontend: React (beginner)</li>
+      <li>Backend: Node.js (learning)</li>
+      <li>Database: MySQL, MongoDB basics</li>
+      <li>Version Control: Git, GitHub</li>
+    </ul>
+  </section>
+
+  <!-- Projects Section -->
+  <section id="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li><strong>Personal Portfolio:</strong> A responsive personal website showcasing my journey.</li>
+      <li><strong>Calculator App:</strong> A simple interactive web calculator (to be uploaded).</li>
+      <li><strong>To-Do List App:</strong> Task management tool with basic CRUD features.</li>
+    </ul>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:baronjames50@gmail.com">baronjames50@gmail.com</a></p>
+    <p>GitHub: <a href="https://github.com/Baronet" target="_blank">github.com/Baronet</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/james-edache-clement-737498335" target="_blank">linkedin.com/in/james-edache-clement</a></p>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2025 James Edache Clement | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
